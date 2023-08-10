@@ -1,4 +1,4 @@
-# YOUR PROJECT TITLE
+# EXPENDITURE TRACKER
 #### Video Demo:  <https://youtu.be/vZAuovocaqI>
 #### Description:
 I have created a telegram bot that allows the user to track their expenses.
